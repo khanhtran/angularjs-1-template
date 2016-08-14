@@ -1,0 +1,1 @@
+base template for Angular 1.1
